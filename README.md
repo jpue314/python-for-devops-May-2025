@@ -1,24 +1,7 @@
 # python-for-devops-May-2025
 From Zero Repository for doing Python DevOps work
 
-
-        +----------------+
-        |   Checklist    |
-        |      SWE       |
-        +----------------+
-               ↑
-               |
-               |
-        +----------------+
-        |     DevOps     |
-        +----------------+
-         ↑      ↑      ↑
-         |      |      |
-+---------------+    +----------------+
-|     CI/CD     |    |     Kaizen     |
-|      IAC      |    |    Culture     |
-|   Automation  |    +----------------+
-+---------------+
+![image](https://github.com/user-attachments/assets/e583c548-aeb5-4e77-abf8-084bbd1d1610)
 
 
 ## Create a project scaffold
